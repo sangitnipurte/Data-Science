@@ -1,4 +1,4 @@
-i = 1
-while i<6:
+i = int(input("Enter the number:"))
+while i<=6:
     print(i)
     i = i + 1
