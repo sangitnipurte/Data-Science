@@ -21,9 +21,9 @@ name = "Sangit"
 
 #python is a dynamically typed language.
 
-34age = 4 #invalid variable name, because it starts with a number
+# 34age = 4 #invalid variable name, because it starts with a number
 
-a$$ge = 4 #invalid variable name, because it contains special characters
+# a$$ge = 4 #invalid variable name, because it contains special characters
 
 __age = 4 #valid variable name, because it starts with an underscore
 
